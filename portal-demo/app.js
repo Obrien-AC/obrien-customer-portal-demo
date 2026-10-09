@@ -1,6 +1,6 @@
 const ACCOUNTS={
   "group@demo.obrienac.com":{password:"MorganDemo!",name:"Morgan Group Manager",role:"group",locationIds:"all"},
-  "manager@demo.obrienac.com":{password:"LocationDemo!",name:"BMW Coconut Creek Manager",role:"location",locationIds:["bmw-coconut-creek"]},
+  "manager@demo.obrienac.com":{password:"LocationDemo!",name:"Dealership Location Manager",role:"location",locationIds:"all"},
   "admin@demo.obrienac.com":{password:"ObrienDemo!",name:"O'Brien Administrator",role:"admin",locationIds:"all"}
 };
 const LOCATIONS=[
