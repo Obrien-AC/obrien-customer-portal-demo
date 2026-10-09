@@ -5,12 +5,12 @@ const ACCOUNTS={
 };
 const LOCATIONS=[
  {id:"bmw-coconut-creek",name:"BMW of Coconut Creek",brand:"BMW",address:"4401 W Sample Rd, Coconut Creek, FL 33073",photo:"./assets/bmw-coconut-creek.webp"},
- {id:"bmw-south-miami",name:"BMW of South Miami",brand:"BMW",address:"16165 S Dixie Hwy, Miami, FL 33157"},
- {id:"bmw-pompano-beach",name:"BMW of Pompano Beach",brand:"BMW",address:"744 N Federal Hwy, Pompano Beach, FL 33062"},
- {id:"honda-south-miami",name:"Honda of South Miami",brand:"HONDA",address:"16165 S Dixie Hwy, Miami, FL 33157"},
- {id:"infiniti-south-miami",name:"INFINITI of South Miami",brand:"INFINITI",address:"16915 S Dixie Hwy, Miami, FL 33157"},
- {id:"volkswagen-pompano-beach",name:"Volkswagen of Pompano Beach",brand:"VOLKSWAGEN",address:"700 N Federal Hwy, Pompano Beach, FL 33062"},
- {id:"volkswagen-south-miami",name:"Volkswagen of South Miami",brand:"VOLKSWAGEN",address:"17930 S Dixie Hwy, Miami, FL 33157"}
+ {id:"bmw-south-miami",name:"BMW of South Miami",brand:"BMW",address:"16165 S Dixie Hwy, Miami, FL 33157",photo:"./assets/bmw-south-miami.webp"},
+ {id:"bmw-pompano-beach",name:"BMW of Pompano Beach",brand:"BMW",address:"744 N Federal Hwy, Pompano Beach, FL 33062",photo:"./assets/bmw-pompano-beach.webp"},
+ {id:"honda-south-miami",name:"Honda of South Miami",brand:"HONDA",address:"16165 S Dixie Hwy, Miami, FL 33157",photo:"./assets/honda-south-miami.webp"},
+ {id:"infiniti-south-miami",name:"INFINITI of South Miami",brand:"INFINITI",address:"16915 S Dixie Hwy, Miami, FL 33157",photo:"./assets/infiniti-south-miami.webp"},
+ {id:"volkswagen-pompano-beach",name:"Volkswagen of Pompano Beach",brand:"VOLKSWAGEN",address:"700 N Federal Hwy, Pompano Beach, FL 33062",photo:"./assets/volkswagen-pompano-beach.webp"},
+ {id:"volkswagen-south-miami",name:"Volkswagen of South Miami",brand:"VOLKSWAGEN",address:"17930 S Dixie Hwy, Miami, FL 33157",photo:"./assets/volkswagen-south-miami.webp"}
 ];
 const PRICES=[36000,30000,24000,24000,12000,18000,9000];
 const REFS=["OB-PM-2026-1008-01","OB-PM-2026-1008-02","OB-PM-2026-1008-03","OB-PM-2026-1008-04","OB-PM-2026-1008-05","OB-PM-2026-1008-06","OB-PM-2026-1008-07"];
